@@ -52,11 +52,12 @@
 /FreeRTOS_project/*.launch
 
 # Ozone, config file
-/Chapter_*/*.jdebug
-/FreeRTOS_project/*.jdebug
+#/Chapter_*/*.jdebug			# Commented out by Kyungjae Lee (05/24/2026)
+#/FreeRTOS_project/*.jdebug		# Commented out by Kyungjae Lee (05/24/2026)	
+
 # Ozone, project user-file
-/Chapter_*/*.jdebug.user
-/FreeRTOS_project/*.jdebug.user
+#/Chapter_*/*.jdebug.use		# Commented out by Kyungjae Lee (05/24/2026)
+#/FreeRTOS_project/*.jdebug.use		# Commented out by Kyungjae Lee (05/24/2026)
 
 # 
 # FYI, do not exclude these project-level files. They are benign or needed
